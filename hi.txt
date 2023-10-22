@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 day la 1 file text cua khoa_example repo, i changed something in my main repo
+=======
+day la 1 file text cua khoa_example repo, i changed something
+>>>>>>> b127aa0d7577ec26ee33e19b7dea93996cf19221
